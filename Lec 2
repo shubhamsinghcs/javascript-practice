@@ -1,0 +1,1 @@
+JavaScript code is executed in a different way.It creates a global execution context and allocates memory to all the variables and functions even before a single line of code is executed.
