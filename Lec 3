@@ -1,0 +1,8 @@
+getName();
+console.log(x);
+var x = 7;
+fuction getName() {
+console.log("Namaste Javascript");
+}
+
+
